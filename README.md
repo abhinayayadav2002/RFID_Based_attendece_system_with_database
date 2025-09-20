@@ -69,7 +69,7 @@ The project is divided into two major parts:
 
   | S.No | USER ID | USER NAME | DATE | WORKING HOURS | IN/OUT STATUS | IN TIME | OUT TIME |
   |------|---------|-----------|------|----------------|----------------|---------|----------|
-  | 1    | 12345678 | John Doe | 2025-08-18 | 3h 15m |IN | 09:00 | 12:15 |
+  | 1    | 12345678 | abhinaya | 2025-08-18 | 3h 15m |IN | 09:00 | 12:15 |
 
 - On **Admin card scan**:  
   - Admin menu is displayed for user database management
